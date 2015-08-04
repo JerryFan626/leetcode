@@ -12,3 +12,13 @@ leetcode题解(不断更新中.....)
 
 
 
+|            | 题目                                                                           |    题解         |   难度     |
+| :--------: | :-----------------------                                                      | :------------:  | :--------:|
+|     1      | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [C++](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/1.Two%20Sum(Hash).cpp)    |  Medium   |
+|     2      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)             | [C++](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/2.Add%20Two%20Numbers(Linked%20List).cpp)    |  Medium   | 
+|     3      | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/3.Longest%20Substring%20Without%20Repeating%20Characters(String).cpp)    |  Medium   | 
+|     4      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/4.Median%20of%20Two%20Sorted%20Arrays(Binary%20Search).cpp)    |  Hard   | 
+|     5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/5.Longest%20Palindromic%20Substring(Manacher).cpp)    |  Medium   | 
+|     6      | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/6.ZigZag%20Conversion(Simulation).cpp)    |  Medium   | 
+
+
