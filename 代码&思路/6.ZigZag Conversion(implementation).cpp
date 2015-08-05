@@ -1,7 +1,9 @@
 /*
+
 6.  ZigZag Conversion
 题意：给出一个字符串和一个数nRow,nRow代表下面需要输出的行数,输出的形式看题目所示
 思路：纯模拟题,处理的时候注意下就行了
+
 */
 
 char* convert(char* s, int numRows) {
