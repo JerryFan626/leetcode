@@ -23,5 +23,5 @@ leetcode题解(不断更新中.....)
 |     7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/7.Reverse%20Integer(implementation).cpp)    |  Easy   | 
 |     8      | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/8.String%20to%20Integer%20(atoi)(implementation).cpp)    |  Easy   | 
 |     9      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/9.Palindrome%20Number(implementation).cpp)    |  Easy   | 
-
+|     136      | [Single Number](https://leetcode.com/problems/single-number/)             | [C](https://github.com/huanyueyaoqin/leetcode/blob/master/%E4%BB%A3%E7%A0%81%26%E6%80%9D%E8%B7%AF/9.Palindrome%20Number(implementation).cpp)    |  Medium   | 
 
